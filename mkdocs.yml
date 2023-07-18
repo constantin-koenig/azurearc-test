@@ -22,5 +22,5 @@ markdown_extensions:
   - pymdownx.snippets
 
 plugins:
-  - git-revision-date
-
+  - git-revision-date-localized:
+      enable_creation_date: true
