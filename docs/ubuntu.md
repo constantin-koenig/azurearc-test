@@ -29,19 +29,19 @@
 - In einem Browser portal.azure.com öffnen und anmelden
 - Über Suchfenster Azure Arc suchen und öffnen
 - Auf Add klicken
-![](/media/ubuntu/schritt8.png)
+![](https://raw.githubusercontent.com/constantin-koenig/azurearc-test/main/docs/media/ubuntu/schritt8.png)
 
 - Eine der drei hier aufgelisteten Lösungen auswählen
-![](/media/ubuntu/schritt9.png)
+![](https://raw.githubusercontent.com/constantin-koenig/azurearc-test/main/docs/media/ubuntu/schritt9.png)
 - überprüfen, ob folgende Anforderungen erfüllt sind
-![](/media/ubuntu/schritt10.png)
+![](https://raw.githubusercontent.com/constantin-koenig/azurearc-test/main/docs/media/ubuntu/schritt10.png)
 - Subscription, Resource group, Region, Operating System angeben
-![](/media/ubuntu/schritt11.png)
+![](https://raw.githubusercontent.com/constantin-koenig/azurearc-test/main/docs/media/ubuntu/schritt11.png)
 - (Optional) Tags setzen
-![](/media/ubuntu/schritt12.png)
+![](https://raw.githubusercontent.com/constantin-koenig/azurearc-test/main/docs/media/ubuntu/schritt12.png)
 - Skript herunterladen
 - Beschreibung durchlesen
-![](/media/ubuntu/schritt14.png)
+![](https://raw.githubusercontent.com/constantin-koenig/azurearc-test/main/docs/media/ubuntu/schritt14.png)
 - Führe das Script dann auf dem gewünschten Server aus
 
 ###
