@@ -20,11 +20,11 @@ az --version
 
 az login
 
-### (Schritt 5 Dieser Befehl muss nur ausgeführt werden, wenn die Resourcen Gruppe 
+###(Schritt 5 (Dieser Befehl muss nur ausgeführt werden, wenn die Resourcen Gruppe 
 noch nicht erstellt wurde)
 
 az ad sp create-for-rbac -n "http://example.com" --role contributor --scopes 
-/subscriptions/9671b6ad-4877-4a42-9609-9eaf88283097/resourcegroups/unibe-idsys-dev-arc-project
+/subscriptions/subscription/resourcegroups/unibe-idsys-dev-arc-project
 
 ## Folgende Schritte im portal.azure.com ausführen:
 
@@ -40,7 +40,7 @@ In einem Browser portal.azure.com öffnen und anmelden
 
 Auf Add klicken
 
-![](https://github.com/constantin-koenig/azurearc-test/blob/main/media/ubuntu/schritt8.png)
+![](media/ubuntu/schritt8.png)
 
 ### Schritt 9
 
