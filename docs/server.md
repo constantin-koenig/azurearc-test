@@ -1,8 +1,6 @@
-# Ubuntu Server ins Azure Arc einbinden
+# Server ins Azure Arc einbinden
 
-[https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
-
-## **Folgende Befehle auf dem Ubuntu Server ausführen:**
+## **Ubuntu Installation AZCLI**
 
 ### Schritt 1 Updaten
 
@@ -16,11 +14,27 @@
 
 ```az --version```
 
+## **Rocky Linux Installation AZCLI**
+
+### Schritt 1 Updaten
+
+```sudo dnf update```
+
+### Schritt 2 Azure CLI installieren
+
+```sudo dnf install azure-cli```
+
+### Schritt 3 CLI Version überprüfen (mindestens 2.7)
+
+```az --version```
+
+## **Nach der Installation**
+
 ### Schritt 4 Mit Azure einloggen
 
 ```az login```
 
-###(Schritt 5 (Dieser Befehl muss nur ausgeführt werden, wenn die Resourcen Gruppe noch nicht erstellt wurde)
+### Schritt 5 (Dieser Befehl muss nur ausgeführt werden, wenn die Resourcen Gruppe noch nicht erstellt wurde)
 
 ```az ad sp create-for-rbac -n "http://example.com" --role contributor --scopes 
 /subscriptions/Hier-Eure-Subscription-Einfügen/resourcegroups/unibe-idsys-dev-arc-project```
@@ -44,4 +58,4 @@
 ![](https://raw.githubusercontent.com/constantin-koenig/azurearc-test/main/docs/media/ubuntu/schritt14.png)
 - Führe das Script dann auf dem gewünschten Server aus
 
-###
+[Link zur Microsoft Dokumentation](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
