@@ -40,7 +40,7 @@ In einem Browser portal.azure.com öffnen und anmelden
 
 Auf Add klicken
 
-![](RackMultipart20230719-1-eqh6bq_html_b89db415531b9ee1.png)
+![](https://github.com/constantin-koenig/azurearc-test/blob/main/media/ubuntu/schritt8.png)
 
 ### Schritt 9
 
