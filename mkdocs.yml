@@ -22,6 +22,7 @@ nav:
     - Manuelle Installation:
       - Server in Azure Arc einbinden: server.md
       - AADSSH Erweiterung: aadsshextension.md
+    - Automatisierung: automation.md
     - Verbinden mit Arc Server: connect.md
   - Az Client: azcli.md
   
