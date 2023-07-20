@@ -1,4 +1,4 @@
-# Azure Client installation
+# **Azure Client installation**
 
 ## Windows
 

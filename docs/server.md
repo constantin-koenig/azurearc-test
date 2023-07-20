@@ -1,4 +1,4 @@
-# Server in Azure Arc einbinden
+# **Server in Azure Arc einbinden**
 
 ## Folgende Schritte im portal.azure.com ausführen:
 - In einem Browser portal.azure.com öffnen und anmelden

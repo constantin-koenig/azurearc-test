@@ -1,4 +1,4 @@
-# Mit AzCLI auf Arc Server verbinden
+# **Mit AzCLI auf Arc Server verbinden**
 !!! note ""
 
     Diese Dokumentation setzt voraus, dass sie eine aktuelle Version (2.7) auf Ihrem Gerät installiert haben.
