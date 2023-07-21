@@ -19,3 +19,6 @@
 - Führe das Script dann auf dem gewünschten Server aus
 
 [Link zur Microsoft Dokumentation](https://learn.microsoft.com/en-us/azure/azure-arc/servers/learn/quick-enable-hybrid-vm)
+
+<br />
+[SSH und AADSSH](https://constantin-koenig.github.io/azurearc-test/aadsshextension/){ .md-button }

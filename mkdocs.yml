@@ -21,12 +21,16 @@ nav:
     - Info: arc.md
     - Manuelle Installation:
       - Server in Azure Arc einbinden: server.md
-      - AADSSH Erweiterung: aadsshextension.md
+      - SSH und AADSSH Erweiterung: aadsshextension.md
     - Automatisierung: automation.md
+    - AADSSH Erweiterung Berechtigungen: aadrights.md
     - Verbinden mit Arc Server: connect.md
   - Az Client: azcli.md
   
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -39,6 +43,10 @@ markdown_extensions:
   - pymdownx.superfences
   - abbr
   - pymdownx.snippets
+  - def_list
+  - tables
+  - attr_list
+
   
 
 plugins:
