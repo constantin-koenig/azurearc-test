@@ -31,7 +31,7 @@ Nun setzen wir die Berechtigungen des SP
 9. Wählen Sie den SP aus und Klicken Sie auf "Select".  
 10. Nun können Sie auf "Review + assign" klicken.   
 
-## **Sript erzeugen**   
+## **Script erzeugen**   
 1. Öffnen Sie folgenden [Link](https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/overview) 
 2. Klicken Sie auf "Add"    
 

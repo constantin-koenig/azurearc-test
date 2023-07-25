@@ -1,17 +1,19 @@
-# **Welcome to MkDocs**
+# **Azure Arc Dokumentation**   
+## Universität Bern Abt. Informatikdienste  
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Herzlich Willkommen zur Dokumentation Azure Arc der UniBe.**  
+Im Sommer 2023 wurde Azure Arc von der UniBe auf mögliche Integration getestet und hier dokumentiert.   
 
-## Commands
+<br />
+[Zur Dokumentation](https://constantin-koenig.github.io/azurearc-test/arc/){ .md-button } 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<br />
+<br />
 
-## Project layout
+| Mitwirkende                           | 
+| ------------------------------------- |
+| Anointan Balasingam                   | 
+| Constantin König                      | 
+| Michael Pfister                       | 
+| Michael Rolli                         | 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
